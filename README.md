@@ -1,4 +1,4 @@
-🛠 Thiago Santana | Desenvolvedor Full Stack
+<h1>🛠 Thiago Santana | Desenvolvedor Full Stack</h1>
 👋,<br/> desenvolvedor apaixonado por tecnologia e soluções eficientes. Trabalho principalmente com Laravel e JavaScript, criando aplicações web bem estruturadas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-developer-87210874)
